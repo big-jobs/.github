@@ -8,8 +8,8 @@ The [`profile/README.md`](./profile/README.md) is displayed publicly on our GitH
 
 We build AI-native platforms at the intersection of hiring and sales intelligence:
 
-- **[Big.Jobs](https://big.jobs)** — Free-forever ATS and talent suite for startups (founded 2019, Palo Alto CA & Bengaluru India)
 - **[Origa](https://origa.io)** — Enterprise voice AI for lead qualification in complex, high-ticket sales cycles (founded 2024, Dubai & Palo Alto CA)
+- **[Big.Jobs](https://big.jobs)** — Free-forever ATS and talent suite for startups (founded 2019, Palo Alto CA & Bengaluru India)
 
 ## Founders
 
@@ -19,6 +19,6 @@ We build AI-native platforms at the intersection of hiring and sales intelligenc
 
 ## Links
 
-- [big.jobs](https://big.jobs) · [hire.big.jobs](https://hire.big.jobs)
 - [origa.io](https://origa.io) · [portal.origa.io](https://portal.origa.io)
-- [Big.Jobs on LinkedIn](https://www.linkedin.com/company/bigdotjobs) · [Origa on LinkedIn](https://www.linkedin.com/company/origa-io/)
+- [big.jobs](https://big.jobs) · [hire.big.jobs](https://hire.big.jobs)
+- [Origa on LinkedIn](https://www.linkedin.com/company/origa-io/) · [Big.Jobs on LinkedIn](https://www.linkedin.com/company/bigdotjobs)
